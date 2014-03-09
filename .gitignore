@@ -20,3 +20,7 @@ _cgo_export.*
 _testmain.go
 
 *.exe
+
+# Project workspace files
+*.sublime-project
+*.sublime-workspace
